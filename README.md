@@ -1,7 +1,7 @@
 # Multi-Agent Software Team Platform
 
 An interactive full-stack workspace simulation modeling real-time multi-agent communication. Watch specialized AI agents (Patricia (PM), Arthur (Architect), Ben (Backend), Fiona (Frontend), Quentin (QA), and Diana (DevOps)) collaborate on software ideas, formulate specifications, partition roadmaps, and write concrete source files.
-
+#LIVE ON - https://multi-agent-software-team-platform-production.up.railway.app/
 ---
 
 ## 🎨 Creative Architecture & Key Features
