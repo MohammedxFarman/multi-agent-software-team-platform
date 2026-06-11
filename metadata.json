@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Agent Software Team Platform",
+  "description": "An interactive, full-stack multi-agent platform where PM, Architect, Backend, Frontend, QA, and DevOps agents collaborate in real-time to plan and generate production-ready code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
